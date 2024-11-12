@@ -1,6 +1,6 @@
 .banner {
     background-size: 100%;
-    background-image: url(../img/banner.jpg);
+    background-image: url(../img/banner.jpeg);
     height: 10em;
     background-repeat: no-repeat;
 
@@ -11,4 +11,9 @@ h1.banner-title {
     top: 0;
     margin: 1em;
     color: white;
+}
+
+.container.list{
+    position: relative;
+    z-index: 1;
 }

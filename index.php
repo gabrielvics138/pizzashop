@@ -15,9 +15,9 @@
 	<header class="blog-header mb-3">
    
    <div class="banner"></div>
-   <h1 class="banner-title">Cart</h1>
+   <h1 class="banner-title">PizzaShop</h1>
   </header>
-<div class="container">
+<div class="container list">
 	<?php
 	include_once "./content.php";
 	echo'</div>';
